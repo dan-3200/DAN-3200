@@ -3,7 +3,7 @@
 ###
 
 <p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Meu nome é Daniel, sou fissurado pela área de <strong>tecnologia</strong> e apaixonado por codar e <strong>construir coisas incríveis</strong>. Trabalho com <strong>desenvolvimento back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
+  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Meu nome é Daniel, sou fissurado pela área de tecnologia e apaixonado por codar e construir coisas incríveis. Trabalho com <strong>desenvolvimento back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
 </p>
 
 ###
