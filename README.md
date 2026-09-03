@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Linkedin banner simples preto e branco" src="https://github.com/user-attachments/assets/cf5e5b79-0794-484e-9862-40245f58c563" />
+<img width="1584" height="396" alt="Linkedin banner simples preto e branco(1)" src="https://github.com/user-attachments/assets/52ed1b47-7d4c-40d6-968e-bd890e9b147d" />
 
 ###
 
