@@ -15,13 +15,12 @@
 <div align="left">
 
   <!-- Stack principal (Backend Empresarial) -->
-  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="36" alt="dotnet logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="36" alt="csharp logo" />
 
   <!-- Experiência complementar em Backend -->
   <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=bun" height="36" alt="nodejs logo" />
 
   <!-- Dados -->
   <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
@@ -30,7 +29,7 @@
 
   <!-- Infraestrutura -->
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="36" alt="kubernetes logo" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="36" alt="rabbitmq logo"  />
   <img src="https://skillicons.dev/icons?i=grafana" height="36" alt="grafana logo"  />
   <img src="https://skillicons.dev/icons?i=prometheus" height="36" alt="prometheus logo"  />
