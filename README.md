@@ -1,10 +1,8 @@
-<img width="1584" height="396" alt="Linkedin banner simples preto e branco(1)" src="https://github.com/user-attachments/assets/52ed1b47-7d4c-40d6-968e-bd890e9b147d" />
+<img width="1584" height="396" alt="Linkedin banner simples preto e branco" src="https://github.com/user-attachments/assets/70903f6b-446a-4786-b899-70459ca86d97" />
+
 
 ###
-
-<p align="justify">
-  &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Meu nome é Daniel, sou fissurado pela área de tecnologia e apaixonado por codar e construir coisas incríveis. Trabalho com <strong>desenvolvimento back end</strong>, criando <strong>APIs escaláveis</strong>, seguindo <strong>boas práticas</strong>, aplicando <strong>Design Patterns</strong> e respeitando os princípios <strong>SOLID</strong>. Também curto usar <strong>Clean Architecture</strong> para manter o código sempre pronto para crescer. Bora tirar ideias do papel e construir algo juntos?
-</p>
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;<strong>Olá!</strong> Meu nome é Daniel, sou fissurado por tecnologia e apaixonado por construir soluções robustas de ponta a ponta. Trabalho com <strong>desenvolvimento back end</strong> e engenharia de infraestrutura, criando APIs escaláveis com <strong>Clean Architecture, SOLID e Design Patterns</strong>, além de garantir entregas confiáveis e resilientes em produção utilizando <strong>Docker, Kubernetes e observabilidade</strong>. Bora tirar ideias do papel e construir algo incrível juntos?</p>
 
 ###
 
